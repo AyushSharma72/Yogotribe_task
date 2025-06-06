@@ -42,7 +42,12 @@ Location: backend/
 3. Start the backend server:
    nodemon index.js or node index.js
 
- **you can use postman to test the api with url http://localhost:3000/api/checkNumber or else you can use the ui i have created on the frotend but starting the server on the port 3000 is necessary to test** 
+ **you can use postman to test the api with url http://localhost:3000/api/checkNumber and send the data from body->raw-> and then in this format
+ {
+"number":2
+}
+the type of request will be POST
+or else you can use the ui i have created on the frotend but starting the server on the port 3000 is necessary to test** 
 
 Default URL: http://localhost:3000
 
