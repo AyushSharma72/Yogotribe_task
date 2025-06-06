@@ -3,15 +3,6 @@
 
 This project contains a Vite + React frontend and a Node.js backend.
 
-----------------------------------------
-📁 Project Structure
-
-.
-├── backend/        # Node.js backend
-│   └── index.js    # Entry point
-├── frontend/       # Vite + React frontend
-│   └── main.jsx    # React entry point
-└── README.txt
 
 ----------------------------------------
 🚀 Getting Started
